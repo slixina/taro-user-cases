@@ -709,6 +709,10 @@ const userCases = {
     {
       name: "脑易安",
       url: "https://user-images.githubusercontent.com/3080820/98386727-80e58300-208b-11eb-8b1e-8d1256fef219.png"
+    },
+    {
+      name: "活动吗",
+      url: "https://6472-drifting-release-cgtfe-1302968885.tcb.qcloud.la/assets/weapp-icon.png?sign=b1334064a1f24294f492034f28deb2af&t=1605773720"
     }
   ],
   支付宝小程序: [
