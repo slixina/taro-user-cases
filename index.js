@@ -651,6 +651,10 @@ const userCases = {
     {
       name: "AI体验中心",
       url: "https://raw.githubusercontent.com/178518/weapp-assets/main/src/images/mini-program.jpg"
+    },
+    {
+      name: "活动吗",
+      url: "https://6472-drifting-release-cgtfe-1302968885.tcb.qcloud.la/assets/index.jpg?sign=57471bea877e77c91692ccd359a19970&t=1605775546"
     }
   ],
   H5: [
